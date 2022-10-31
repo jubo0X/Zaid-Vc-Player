@@ -38,7 +38,7 @@ BOT_NAME = getenv("BOT_NAME", "Red Zone")
 
 API_ID = int(getenv("API_ID", "8186557"))
 API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
-MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Cloner:Cloner@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://redzone:redzone@cluster0.usrv3w1.mongodb.net/?retryWrites=true&w=majority")
 OWNER_NAME = getenv("OWNER_NAME", "RED ZONE")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Timesisnotwaiting")
 ALIVE_NAME = getenv("ALIVE_NAME", "RED ZONE")
